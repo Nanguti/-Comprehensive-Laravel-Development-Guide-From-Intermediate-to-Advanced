@@ -587,8 +587,6 @@ class OrderShipped implements ShouldBroadcast
 }
 ```
 
-[Previous sections remain the same...]
-
 #### Complex Event Listeners
 
 ```php
